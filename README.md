@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @victoriabellanti
+- 🎓 I have a Bechelor's Degree in graphic, multimedia and interaction design. 
 - 👀 I’m interested in User experience design, Branding and Graphic design 
-- 🌱 I’m currently learning UX Writing 
-- 💞️ I’m looking to collaborate on very cool design proyects :) 
+- 🌱 I’ve recently completed a UX Writing course at Coderhouse
+- 💞️ I’m willing to work on very cool design proyects 
+- 🤓 See my work here: https://victoriabellanti.myportfolio.com/
 - 📫 How to reach me: victoriabellanti.dgm@gmail.com
 
 <!---
